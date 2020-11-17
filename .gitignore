@@ -1,1 +1,4 @@
 .idea
+*.DS_Store
+*.zip
+assignment_1/1_mlp_cnn/code/cifar10/cifar-10-batches-py/*
